@@ -1,4 +1,5 @@
-package ProgrammersListPrac;
+package java_basic1.LikeLion_13th_Backend_Assignment01.honghyojeong.ProgrammersListPrac;
+
 class Solution {
     public int[] solution(int n, int[] slicer, int[] num_list) {
         int a = slicer[0];

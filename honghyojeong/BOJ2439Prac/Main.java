@@ -1,4 +1,4 @@
-package BOJ2439Prac;
+package java_basic1.LikeLion_13th_Backend_Assignment01.honghyojeong.BOJ2439Prac;//현재 클래스가 속한 패키지
 
 import java.util.Scanner;
 
