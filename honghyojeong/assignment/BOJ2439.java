@@ -1,8 +1,8 @@
-package java_basic1.LikeLion_13th_Backend_Assignment01.honghyojeong.BOJ2439Prac;//현재 클래스가 속한 패키지
+package assignment;
 
 import java.util.Scanner;
 
-public class Main {
+public class BOJ2439 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
@@ -21,5 +21,4 @@ public class Main {
         scanner.close();
 
     }
-
 }

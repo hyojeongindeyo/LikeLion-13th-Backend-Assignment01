@@ -1,4 +1,4 @@
-package java_basic1.LikeLion_13th_Backend_Assignment01.honghyojeong.ProgrammersListPrac;
+package assignment;
 
 class Solution {
     public int[] solution(int n, int[] slicer, int[] num_list) {
@@ -47,3 +47,6 @@ class Solution {
 
     }
 }
+
+
+
